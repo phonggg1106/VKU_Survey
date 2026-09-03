@@ -8,7 +8,7 @@
 
 ## 1. GENERAL INFORMATION & DELIVERABLE LINKS
 * **Student Information:**
-  - **Full Name:** Bùi Văn Phong (phonggg1106)
+  - **Full Name:** Bùi Hoàng Phong
   - **Role:** Full-Stack PWA Architecture, Offline Engine & UI/UX Design — Contribution: 100%
 * **🔗 Live Demo URL:** [https://vku-field-survey-4g7.pages.dev](https://vku-field-survey-4g7.pages.dev)
 * **💻 GitHub Repository:** [https://github.com/phonggg1106/VKU_Survey](https://github.com/phonggg1106/VKU_Survey)
@@ -35,7 +35,7 @@ VKU_Survey/
 ├── public/
 │   ├── images.png               # Official VKU Brand Logo
 │   ├── manifest.webmanifest     # PWA Web App Manifest (Standalone Mode)
-│   └── vku-logo.svg
+│   
 ├── src/
 │   ├── components/
 │   │   ├── Header.tsx           # Sticky Navigation Header with VKU Tri-Color Accent Line
