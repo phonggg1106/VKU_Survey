@@ -1,0 +1,17 @@
+{
+  "name": "VKU Field Survey",
+  "short_name": "VKU Survey",
+  "description": "Offline-First Field Inspection PWA for Vietnam-Korea University of ICT",
+  "theme_color": "#0284c7",
+  "background_color": "#f8fafc",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/vku-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
